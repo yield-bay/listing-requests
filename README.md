@@ -1,9 +1,14 @@
-# 🌊 Welcome to The Bay 🌊
+# 🌊 Welcome to The Bay Office 🌊
 
-### Introduction 👋
-Yieldbay is your portal for defi in the Polkadot and Kusama Paraverse. We are a team of passionate people building tools for the no noise web3 revolution.
+Yieldbay is your portal for DeFi in the Polkadot and Kusama Paraverse. 
 
-Visit [our website](https://yieldbay.io) to know more about us and what we do!
+The [YieldBay List](https://list.yieldbay.io) aggregates yield farming opportunities across multiple parachains. 
 
-### Listing Requests 👀
-Want to get listed with us on [our app](https://list.yieldbay.io)? It is as simple as [creating an issue](https://github.com/yield-bay/listing-requests/issues/new?assignees=&labels=&template=protocol-listing.md&title=%5BName+of+protocol%5D+listing+request) on this repository!
+
+**To get your protocol listed, please [create an issue](https://github.com/yield-bay/listing-requests/issues/new?assignees=&labels=&template=protocol-listing.md&title=%5BName+of+protocol%5D+listing+request) and we'll get in touch with you 😄**
+
+
+### How to get in touch?
+- [Discord](https://discord.com/invite/AKHuvbz7q4)
+- [Twitter](https://twitter.com/yield_bay)
+- [Telegram](https://telegram.me/nightwingyb)
